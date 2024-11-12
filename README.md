@@ -26,10 +26,10 @@
 - Bootstrap
 - JSP/Servlet
 - Spring Boot
+- ChatGPT API
 
 ### ツール & テクノロジー
 - Git
-- ChatGPT API
 - Gradle
 - Docker
 - AWS
