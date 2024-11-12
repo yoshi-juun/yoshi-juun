@@ -1,16 +1,103 @@
-## Hi there 👋
+# 吉田隼
 
-<!--
-**yoshi-juun/yoshi-juun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## スキル概要
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
+![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-Here are some ideas to get you started:
+### プログラミング言語(年数：目的)
+- Java(4：ウェブアプリケーション開発)
+- JavaScript(２：アルゴリズムの学習,ウェブアプリケーション開発)
+- C(1：アルゴリズムの学習)
+- Python(2：機械学習の講義で使用)
+- MySQL(4：ウェブアプリケーション開発)
+- アセンブリ言語(1：アルゴリズムの学習)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### フレームワーク & ライブラリ
+- Bootstrap
+- JSP/Servlet
+- Spring Boot
+
+### ツール & テクノロジー
+- Git
+- ChatGPT API
+- Gradle
+- Docker
+- AWS
+- Azure
+- HTML
+- CSS
+
+## 取得資格・免許
+- 普通自動車第一種運転免許 2021/2
+- 普通自動二輪車免許 2023/5
+- 高等学校教諭一種免許状情報 2024/3
+- ITパスポート試験 2024/6
+- AWS Certified Cloud Practitioner（AWS認定クラウドプラクティショナー） 2024/10
+
+## プロジェクト
+
+### 1: ChatGPTを用いた生成プログラムの自動修正システムの開発
+
+#### **概要**
+- ChatGPTを用いた生成プログラムの自動修正システムの開発に取り組んだ.このシステムは,ChatGPT APIを利用して,コードの生成から実行,修正までを自動的に行うものである.このシステムを開発した理由は,ChatGPTのコーディングにおける整合性問題やハルシネーション問題が,開発プロセスにおいて大きな障害となると考えたからだ.整合性問題とは,生成されたコードが論理的に一貫していないことを指し,ハルシネーション問題とは,AIが存在しない機能やライブラリを生成してしまう現象を指す.これらの問題を解決することで,ソフトウェア開発の効率を大幅に向上させることができると考えた.開発したシステムでは,ChatGPTが生成したコードを自動的に検証し,不整合や誤りを検出する.検出された問題に対して,ChatGPTが再度コードを生成し修正を行い,問題が解決するまでこの手順を自動的に繰り返し行う.これにより生成されたコードに対する人力のフィードバックと修正のプロセスに必要な手作業を軽減するという課題に取り組むことを目的としている．
+
+
+#### **使用言語**
+- Java
+- JavaScript
+- SQL
+#### **フレームワーク＆ライブラリ**
+- Bootstrap
+- JSP/Servlet
+- ChatGPT API
+#### ツール & テクノロジー
+- Git
+- Gradle
+- HTML
+- CSS
+
+
+
+### 2: 大学院修士課程の業務を支援する Web アプリケーション
+#### **概要**
+以前まで大学院での書類提出は学生,指導教員,職員間の三者間で紙ベースで行われており,やり取りが非効率的であり,タイムラグが生じてしまう状態にあった.そこで,提出プロセスのデジタル化によって業務効率化を支援し,社会人基礎スキルという調査項目を可視化するウェブアプリケーションの開発を行った.
+#### **使用言語**
+- Java
+- JavaScript
+- SQL
+#### **フレームワーク＆ライブラリ**
+- Bootstrap
+- JSP/Servlet
+#### ツール & テクノロジー
+- Git
+- Gradle
+- HTML
+- CSS
+
+## 実績
+- 2024/3：「ChatGPTを用いた生成プログラムの自動修正システムの開発」というテーマで,電子情報通信学会(IECIE) 知能ソフトウェア工学研究会(SIG-KBSE)にて発表
+
+## 連絡先
+- **メール**: 2026juny@gmail.com
+- **大学院メール**: m248132k@st.u-gakugei.ac.jp
+- **大学メール（旧）**: e205415f@st.u-gakugei.ac.jp
+- **GitHub**: [yoshi-juun](https://github.com/yosji-juun)
+
+## 学歴
+- 2017/3：大田区立矢口中学校　卒業
+- 2017/4：東京都立小山台高等学校　入学
+- 2020/3：東京都立小山台高等学校　卒業
+- 2020/4：東京学芸大学 教育学部 教育支援課程 教育支援専攻 情報教育コース　入学
+- 2024/3：東京学芸大学 教育学部 教育支援課程 教育支援専攻 情報教育コース　卒業
+- 2024/4：東京学芸大学院 教育学研究科 教育支援協働実践開発専攻 教育AI研究プログラム　入学
+- 2026/3：東京学芸大学院 教育学研究科 教育支援協働実践開発専攻 教育AI研究プログラム　卒業見込み
