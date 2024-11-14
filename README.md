@@ -14,6 +14,11 @@
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<img src="https://github.com/user-attachments/assets/7a17db66-e27c-47fa-8ce2-ba0f8cf96ee9" alt="Description" width="150" height="150">
+<img src="https://github.com/user-attachments/assets/7d37ee83-9b70-4dd3-a3c4-c0b2d29a8374" alt="Description" width="150" height="150">
+
+
+
 ### プログラミング言語(年数：目的)
 - Java(4：ウェブアプリケーション開発)
 - JavaScript(２：アルゴリズムの学習,ウェブアプリケーション開発)
@@ -23,17 +28,17 @@
 - アセンブリ言語(1：アルゴリズムの学習)
 
 ### フレームワーク & ライブラリ
-- Bootstrap
-- JSP/Servlet
-- Spring Boot
-- ChatGPT API
+- Bootstrap(ウェブアプリケーション)
+- JSP/Servlet(ウェブアプリケーション)
+- Spring Boot(EC2を用いたAPI)
+- ChatGPT API(ウェブアプリケーション)
 
 ### ツール & テクノロジー
 - Git
 - Gradle
 - Docker
-- AWS
-- Azure
+- AWS(CLF)
+- Azure(TeamsBot作成中)
 - HTML
 - CSS
 
