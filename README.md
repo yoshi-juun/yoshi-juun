@@ -53,7 +53,7 @@
 
 
 ## 連絡先
-- **メール**: 2026juny@gmail.com
+- **メール**: k0d3j0u5n@gmail.com
 - **大学院メール**: m248132k@st.u-gakugei.ac.jp
 - **大学メール（旧）**: e205415f@st.u-gakugei.ac.jp
 - **GitHub**: [yoshi-juun](https://github.com/yosji-juun)
